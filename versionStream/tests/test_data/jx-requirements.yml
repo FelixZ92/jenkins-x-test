@@ -19,7 +19,7 @@ environments:
     owner: ""
     repository: ""
 ingress:
-  domain: ""
+  domain: "jenkinsx.167.233.9.8.nip.io`"
   externalDNS: false
   tls:
     email: ""
