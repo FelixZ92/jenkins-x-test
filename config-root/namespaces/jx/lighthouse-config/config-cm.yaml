@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - FelixZ92/jenkins-x-test
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.10.0.0.3.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
